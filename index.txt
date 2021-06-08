@@ -4,3 +4,7 @@ este es otro mensaje guapos
 
 
 hola como estan estoy aprendiendo linux y git para en un futuro tener mi propia empresa de desarrollo y ser muy rico
+
+
+voy a copiar y hacer una rama
+
